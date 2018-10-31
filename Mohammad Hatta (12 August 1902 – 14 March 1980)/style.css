@@ -1,0 +1,46 @@
+*
+{
+	margin:0;
+	padding: 0;
+
+}
+#main{
+	margin: auto;
+	width: 1366px;
+	height: auto;
+	text-align: center;
+	background: #eee;
+	font-family: sans-serif;
+	border-radius: 10px;
+}
+#main h1{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+#tribute-info{
+	width: 100%;
+	margin: auto;
+
+	text-align: center;
+	display: block;
+
+}
+#tribute-info ul{
+    width: 50%;
+    margin: 0 auto;
+    text-align: left;
+    display: block;
+    list-style-type: disc;
+
+}
+
+#tribute-info ul h3{
+	padding-top: 40px;
+	padding-left: 20px;
+}
+
+#tribute-info ul li{
+	display: list-item;
+    margin:10px;
+
+}
